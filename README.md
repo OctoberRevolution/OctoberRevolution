@@ -9,4 +9,4 @@
 ⢠⣶⣿⣿⠋⠀⠀⠉⠛⠿⠿⠿⠿⠿⠛⠻⣿⣿⣦⡀
 ⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⡿
 ```
-![image](./Kustodiev_The_Bolshevik (1).jpg)
+![image](./Kustodiev_The_Bolshevik \(1\).jpg)
